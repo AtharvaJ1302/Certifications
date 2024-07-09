@@ -2,7 +2,7 @@
 
 Welcome to my Certifications Portfolio! This repository contains a comprehensive list of all the certifications I have accomplished to date. Each certification represents my dedication to learning and mastering new skills, which I bring to every project I work on.
 
-## Certifications
+## 📝  Certifications
 
 ### 1. AWS 7-days Javascript and React Bootcamp
 - **Issuing Organization:** AWS Community Buider, DevTown
